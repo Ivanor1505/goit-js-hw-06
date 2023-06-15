@@ -1,0 +1,10 @@
+.gallery-css {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+}
+
+.gallery-css>li>img {
+    width: 800px;
+}
